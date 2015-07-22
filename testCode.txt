@@ -1,4 +1,5 @@
 My name is QiuKaiHong!!
 This is a test file for encoding!!
 This line is added by User_2!!!
-This line is added by user_1!!
+This line is added by user_1!!!
+Hi! What's your name?
