@@ -1,2 +1,3 @@
 My name is QiuKaiHong!!
 This is a test file for encoding!!
+This line is added by user_1!!
